@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Food Addict
 
-You can use the [editor on GitHub](https://github.com/taylorleen/Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Have an obsession and addiction for all things sweet? Is dessert your favorite and first meal of the day? Me too. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Check out the sweet treats that make my mouth smile.
 
-### Markdown
+### Ice Cream
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Coffee is my favorite, but not just any type of coffee ice cream. The brand is very important. Turkey Hill to be exact. It has to have the right consistency of creaminess and richness and the coffee flavor has to be nothing but the strongest.
 
 ```markdown
-Syntax highlighted code block
+The Perfect Ice Cream Cone
 
-# Header 1
-## Header 2
-### Header 3
+# Freshly baked waffle cone
+## 3 large scoops of coffee ice cream
+### A pool of rainbow sprinkles
 
 - Bulleted
 - List
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![http://www.keepitsweetdesserts.com/wp-content/uploads/2014/05/No-Churn-Cookie-Butter-Ice-Cream-17.jpg](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
