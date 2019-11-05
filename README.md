@@ -15,23 +15,24 @@ The Perfect Ice Cream Cone
 ## 3 large scoops of coffee ice cream
 ### A pool of rainbow sprinkles
 
-- Bulleted
-- List
+- Yummy in the tummy
+- I love food!
 
-1. Numbered
-2. List
+1. Dessert
+2. Dinner
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![http://www.keepitsweetdesserts.com/wp-content/uploads/2014/05/No-Churn-Cookie-Butter-Ice-Cream-17.jpg](src)
-```
+http://www.keepitsweetdesserts.com/wp-content/uploads/2014/05/No-Churn-Cookie-Butter-Ice-Cream-17.jpg
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Favorite Dessert Spots in Austin, Texas
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taylorleen/Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Amy's Ice Cream 
+TCBY
+Lick
+Sweet Ritual
+Quack's 
+Orange Leaf
+Sprinkles 
+Tiny Boxwoods
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
