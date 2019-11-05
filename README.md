@@ -32,5 +32,13 @@ Orange Leaf
 Sprinkles 
 Tiny Boxwoods
 
+### Articles
+We Tasted 23 Kinds of Coffee Ice Cream and Rated Them. You’re Welcome. (https://sweatpantsandcoffee.com/tasted-23-kinds-coffee-ice-cream-and-ranked-them/)
+
+Taste Test Tuesday: Supermarket Coffee Ice Cream
+It’s National Coffee Ice Cream Day, so we couldn’t resist(http://www.westchestermagazine.com/Blogs/Eat-Drink-Post/September-2016/Taste-Test-Tuesday-Supermarket-Coffee-Ice-Cream/)
+
+Brown Butter and Toffee Chocolate Chip Cookies (https://www.bonappetit.com/recipe/brown-butter-and-toffee-chocolate-chip-cookies) 
+
 
 
